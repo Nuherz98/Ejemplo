@@ -1,0 +1,2 @@
+1.- Iniciar la clase de DevOps con pase de lista
+2.- Crear ejemplo de Git 
